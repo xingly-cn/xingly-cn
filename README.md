@@ -9,7 +9,7 @@
 ---
 
 <p dir="auto">
-<a href="https://github.com/fuzhengwei"><img src="https://github-readme-stats.vercel.app/api?username=xingly-cn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Xingly-cn's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=xingly-cn&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width: 100%;"></a>
+<a href="https://github.com/xingly-cn"><img src="https://github-readme-stats.vercel.app/api?username=xingly-cn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Xingly-cn's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=xingly-cn&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width: 100%;"></a>
 </p>
 
 <div>
